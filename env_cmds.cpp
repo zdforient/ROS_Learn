@@ -46,6 +46,7 @@ rosnode ping my_turtle
 rostopic 
 //get data
 rostopic echo /turtle1/cmd_vel
+rostopic echo /turtle1/pose
 //check topics
 rostopic list -v
 //check node data types
