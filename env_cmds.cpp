@@ -66,3 +66,5 @@ rostopic pub /turtle1/cmd_vel geometry_msgs/Twist -r 1 -- '[2.0, 0.0, 0.0]' '[0.
 //plot
 rqt
 plugins->Visualization->Plot
+
+//6 done
